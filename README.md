@@ -1,6 +1,6 @@
 # islamic-data
 
-<!--name, link, (description if any), formats available-->
+<!--name, link, (description if any), formats available, from-->
 
 ## Quran
 
@@ -15,15 +15,14 @@
 
 ## Hadith/Adhkar
 
-- 40 hadith nawawi [الأحاديث الأربعون النووية](https://github.com/osamayy/40-hadith-nawawi-db) `csv json sqlite`
-- Fortress of the muslim2 [Hisnul Muslim](https://github.com/sheikhhanif/Hisnul_Muslim_Database) With _Audio_ `csv mp3` <!-- No sqlite -->
-- [Hadith Data](https://github.com/abdelrahmaan/Hadith-Data-Sets) All Hadith _with & w/out Tashkeel_ from the 9 Books. 62,169 Hadith `csv`
-- [Hadith Data2](https://github.com/mhashim6/Open-Hadith-Data) All Hadith _with & w/out Tashkeel_ from the 9 Books`csv`
-- [Hadith Data2.1](https://github.com/A7med3bdulBaset/hadith-json) 50,884 hadiths from the 17 books with _English_ `json`
--
+- 40 hadith nawawi [الأحاديث الأربعون النووية](https://github.com/osamayy/40-hadith-nawawi-db) `csv json sqlite` [contribute](https://github.com/osamayy/40-hadith-nawawi-db?tab=readme-ov-file#%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A9)
+- Fortress of the muslim [Hisnul Muslim](https://github.com/sheikhhanif/Hisnul_Muslim_Database) With _Audio_ `csv mp3` <!-- No sqlite -->
+- [Hadith Data](https://github.com/abdelrahmaan/Hadith-Data-Sets) All Hadith _with & w/out Tashkeel_ from the 9 Books. 62,169 Hadith `csv` islambook.com
+- [Hadith Data2](https://github.com/mhashim6/Open-Hadith-Data) All Hadith _with & w/out Tashkeel_ from the 9 Books `csv` islamware
+- [Hadith Data2.1](https://github.com/A7med3bdulBaset/hadith-json) 50,884 hadiths from 17 [books](#hadith-books) (including 9) with _English_ `json` sunnah.com
 - [Azkar-db](https://github.com/osamayy/azkar-db) مجموعة بيانات للأذكار والأدعية والرقية `csv json sqlite`
-- [Al-Mathurat](https://github.com/adiman-muhammad/Mathurat) `sql`
-- [Hadith Data3](https://github.com/ceefour/hadith-islamware) hadith from islamware `csv`
+- [Al-Mathurat](https://github.com/adiman-muhammad/Mathurat) sughra(small) version only. `sql`
+- [Hadith Data3](https://github.com/ceefour/hadith-islamware) `csv` islamware
 <!-- Bad quality (Bq) / Unfinished (U) / Note (N)
 ([U]only up to dua 64xml, no sqlite. [N] pdf + sharhPdf )[Hisnul Muslim](https://github.com/khalid-hussain/hisnulMuslimDB) `xml pdf No-sqlite`
 -->
@@ -51,3 +50,22 @@ https://github.com/islamic-network
 https://github.com/JobeEnterprise/awesome-islam
 
 - Note: none of the data has been verified with 100% accuracy
+
+### Hadith books
+1. Sahih al-Bukhari صحيح البخاري
+1. Sahih Muslim صحيح مسلم
+1. Sunan Abi Dawud سنن أبي داود
+1. Jami` at-Tirmidhi جامع الترمذي
+1. Sunan an-Nasa'i سنن النسائي
+1. Sunan Ibn Majah سنن ابن ماجه
+1. Muwatta Malik موطأ مالك
+1. Musnad Ahmad مسند أحمد
+1. Sunan ad-Darimi سنن الدارمي
+1. Riyad as-Salihin رياض الصالحين
+1. Shamail al-Muhammadiyah الشمائل المحمدية
+1. Bulugh al-Maram بلوغ المرام
+1. Al-Adab Al-Mufrad الأدب المفرد
+1. Mishkat al-Masabih مشكاة المصابيح
+1. The Forty Hadith of al-Imam an-Nawawi الأربعون النووية
+1. The Forty Hadith Qudsi الأربعون القدسية
+1. The Forty Hadith of Shah Waliullah أربعون الشاه ولي الله
