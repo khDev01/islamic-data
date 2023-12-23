@@ -16,7 +16,6 @@
 ## Hadith/Adhkar
 
 - 40 hadith nawawi [الأحاديث الأربعون النووية](https://github.com/osamayy/40-hadith-nawawi-db) `csv json sqlite`
-- Fortress of the muslim [Hisnul Muslim](https://github.com/khalid-hussain/hisnulMuslimDB) `xml pdf` <!-- No sqlite -->
 - Fortress of the muslim2 [Hisnul Muslim](https://github.com/sheikhhanif/Hisnul_Muslim_Database) With _Audio_ `csv mp3` <!-- No sqlite -->
 - [Hadith Data](https://github.com/abdelrahmaan/Hadith-Data-Sets) All Hadith _with & w/out Tashkeel_ from the 9 Books. 62,169 Hadith `csv`
 - [Hadith Data2](https://github.com/mhashim6/Open-Hadith-Data) All Hadith _with & w/out Tashkeel_ from the 9 Books`csv`
@@ -25,6 +24,9 @@
 - [Azkar-db](https://github.com/osamayy/azkar-db) مجموعة بيانات للأذكار والأدعية والرقية `csv json sqlite`
 - [Al-Mathurat](https://github.com/adiman-muhammad/Mathurat) `sql`
 - [Hadith Data3](https://github.com/ceefour/hadith-islamware) hadith from islamware `csv`
+<!-- Bad quality (Bq) / Unfinished (U) / Note (N)
+([U]only up to dua 64xml, no sqlite. [N] pdf + sharhPdf )[Hisnul Muslim](https://github.com/khalid-hussain/hisnulMuslimDB) `xml pdf No-sqlite`
+-->
 
 ## Misc <!--uncategorised-->
 
