@@ -1,6 +1,7 @@
 # islamic-data
 
-<!--name, link, (description if any), formats available, from-->
+<!--name, link, (description if any), formats available, from, Non-default data-->
+<!-- by default all data is plain text unless explicitly listed in this file (with no extra chars like "/n" or invisible chars)  -->
 
 ## Quran
 
@@ -20,7 +21,7 @@
 - [Hadith Data](https://github.com/abdelrahmaan/Hadith-Data-Sets) All Hadith _with & w/out Tashkeel_ from the 9 Books. 62,169 Hadith `csv` islambook.com
 - [Hadith Data2](https://github.com/mhashim6/Open-Hadith-Data) All Hadith _with & w/out Tashkeel_ from the 9 Books `csv` islamware
 - [Hadith Data2.1](https://github.com/A7med3bdulBaset/hadith-json) 50,884 hadiths from 17 [books](#hadith-books) (including 9) with _English_ `json` sunnah.com
-- [Azkar-db](https://github.com/osamayy/azkar-db) مجموعة بيانات للأذكار والأدعية والرقية `csv json sqlite`
+- [Azkar-db](https://github.com/osamayy/azkar-db) مجموعة بيانات للأذكار والأدعية والرقية `csv json sqlite` NOTE: includes extra characters like arabic joining (-) and line breaks (/n)
 - [Al-Mathurat](https://github.com/adiman-muhammad/Mathurat) sughra(small) version only. `sql`
 - [Hadith Data3](https://github.com/ceefour/hadith-islamware) `csv` islamware
 <!-- Bad quality (Bq) / Unfinished (U) / Note (N)
@@ -30,7 +31,7 @@
 ## Misc <!--uncategorised-->
 
 - [NamesOFAllah](https://github.com/Alsarmad/Names_Of_Allah_Json) `json`
-- [Quran-Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) Quran + tafseer + quran page `png` + azkar + ismu allah + ismu prophet `json`
+- [Quran-Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) Quran + tafseer + quran page `png` + ~~azkar~~ + ismu allah + ismu prophet `json` [upToDateAzkar](https://github.com/osamayy/azkar-db)
 
 ## APIs
 
@@ -52,6 +53,7 @@ https://github.com/JobeEnterprise/awesome-islam
 - Note: none of the data has been verified with 100% accuracy
 
 ### Hadith books
+
 1. Sahih al-Bukhari صحيح البخاري
 1. Sahih Muslim صحيح مسلم
 1. Sunan Abi Dawud سنن أبي داود
@@ -69,3 +71,22 @@ https://github.com/JobeEnterprise/awesome-islam
 1. The Forty Hadith of al-Imam an-Nawawi الأربعون النووية
 1. The Forty Hadith Qudsi الأربعون القدسية
 1. The Forty Hadith of Shah Waliullah أربعون الشاه ولي الله
+
+## Cool Websites (in order from best to worst by category)
+
+1. https://sunnah.com/ Browse Hadith collections `multilingual`
+2. https://dorar.net `Arabic` [English site](https://dorar.net/en) `sciences: (tafsir, hadith, aqidah, fiqh, and other sciences)`
+3. https://ahadith.co.uk/ `English Only` Hadith collections <!-- The VERY few Duas come with arabic -->
+
+4. https://quran.com/ Quran w/translation & tafsir `Multilingual`
+   https://quranicaudio.com/
+   https://salah.com/
+   https://corpus.quran.com/
+5. https://tanzil.net/ modifiable quran page layout
+
+https://islamhouse.com Encyclopedia & more `Very-multilingual`
+
+<!-- https://www.kalamullah.com/  Not certain? PDF hub? -->
+
+https://islamicbulletin.org/
+https://kitabosunnat.com/ `urdu`
