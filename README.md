@@ -3,7 +3,7 @@
 <!--name, link, (description if any), formats available, from, Non-default data-->
 <!-- by default all data is plain text unless explicitly listed in this file (with no extra chars like "/n" or invisible chars)  -->
 
-## Quran
+## Quran <span style="float: right; font-family: Amiri"> القرآن </span>
 
 - [Quran JSON](https://github.com/semarketir/quranjson) surah juz tajweed translation(en&ar) audio `json mp3`
   - [Quran Json Fork](https://github.com/SadaqaWorks/quranjson) `json mp3`
@@ -30,7 +30,7 @@
 
 ## Misc <!--uncategorised-->
 
-- [NamesOFAllah](https://github.com/Alsarmad/Names_Of_Allah_Json) `json`
+- [99NamesOFAllah](https://github.com/Alsarmad/Names_Of_Allah_Json) `json`
 - [Quran-Data](https://github.com/Mohamed-Nagdy/Quran-App-Data) Quran + tafseer + quran page `png` + ~~azkar~~ + ismu allah + ismu prophet `json` [upToDateAzkar](https://github.com/osamayy/azkar-db)
 
 ## APIs
