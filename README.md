@@ -1,10 +1,8 @@
 # islamic-data
-
-<link rel="stylesheet" href="./style.css">
 <!--name, link, (description if any), formats available, from, Non-default data-->
 <!-- by default all data is plain text unless explicitly listed in this file (with no extra chars like "/n" or invisible chars)  -->
 
-## Quran <span> القرآن </span>
+## Quran
 
 - [Quran JSON](https://github.com/semarketir/quranjson) surah juz tajweed translation(en&ar) audio `json mp3`
   - [Quran Json Fork](https://github.com/SadaqaWorks/quranjson) `json mp3`
