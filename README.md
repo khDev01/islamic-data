@@ -1,6 +1,15 @@
 # islamic-data
-<!--name, link, (description if any), formats available, from, Non-default data-->
-<!-- by default all data is plain text unless explicitly listed in this file (with no extra chars like "/n" or invisible chars)  -->
+
+List of islamic data
+
+- [Quran](#quran)
+- [Hadith/Adhkar](#hadithadhkar)
+- [Misc](#Misc)
+- [APIs](#apis)
+- [Other lists](#other-curated-lists)
+- [Websites](#coolwebsites)
+  <!--name, link, (description if any), formats available, from, Non-default data-->
+  <!-- by default all data is plain text unless explicitly listed in this file (with no extra chars like "/n" or invisible chars)  -->
 
 ## Quran
 
@@ -23,6 +32,7 @@
 - [Azkar-db](https://github.com/osamayy/azkar-db) مجموعة بيانات للأذكار والأدعية والرقية `csv json sqlite` NOTE: includes extra characters like arabic joining (-) and line breaks (/n)
 - [Al-Mathurat](https://github.com/adiman-muhammad/Mathurat) sughra(small) version only. `sql`
 - [Hadith Data3](https://github.com/ceefour/hadith-islamware) `csv` islamware
+- [Hadith & Quran & more](https://github.com/iadnanmukhtar/hadithdb) `sqlite` website-https://hadithunlocked.com/
 <!-- Bad quality (Bq) / Unfinished (U) / Note (N)
 ([U]only up to dua 64xml, no sqlite. [N] pdf + sharhPdf )[Hisnul Muslim](https://github.com/khalid-hussain/hisnulMuslimDB) `xml pdf No-sqlite`
 -->
@@ -38,18 +48,19 @@
 - [sunnah.com](https://github.com/sunnah-com/api) `hadith`
 - [Tafsir](https://github.com/Quran-Tafseer/tafseer_api) `tafsir`
 - [Free Hadith API](https://github.com/fawazahmed0/hadith-api) multilingual, `Hadith`
+- [Free Quran API](https://github.com/fawazahmed0/quran-api) multilingual, `Quran` 90+ languages & 400+ translations
+  https://github.com/fawazahmed0/quran-api
+- [Hadith API with Indonesia Translation](https://github.com/gadingnst/hadith-api)
 
 ## Other curated lists
 
-https://github.com/AhmedKamal/awesome-Islam
+- https://github.com/AhmedKamal/awesome-Islam Awesome Islam related projects, frameworks, resources
+- https://github.com/choubari/Awesome-Muslims Awesome Muslim Resources to encourage and help developers produce more islamic apps
+- https://github.com/islamic-network A network of free digital Islamic services
+- https://github.com/JobeEnterprise/awesome-islam list of Islamic Resources in Arabic and English
+- https://github.com/mobadarah/tajmeeatonr `Arabic repo` Collection of mostly open source projects
 
-https://github.com/choubari/Awesome-Muslims
-
-https://github.com/islamic-network
-
-https://github.com/JobeEnterprise/awesome-islam
-
-- Note: none of the data has been verified with 100% accuracy
+[Note]: none of the data has been verified with 100% accuracy
 
 ### Hadith books
 
@@ -71,7 +82,9 @@ https://github.com/JobeEnterprise/awesome-islam
 1. The Forty Hadith Qudsi الأربعون القدسية
 1. The Forty Hadith of Shah Waliullah أربعون الشاه ولي الله
 
-## Cool Websites (in order from best to worst by category)
+## Cool Websites
+
+<!-- (in order from best to worst by category) -->
 
 1. https://sunnah.com/ Browse Hadith collections `multilingual`
 2. https://dorar.net `Arabic` [English site](https://dorar.net/en) `sciences: (tafsir, hadith, aqidah, fiqh, and other sciences)`
